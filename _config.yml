@@ -152,7 +152,7 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/publications.md
   - files
 exclude:
   - _pages/cv.md
