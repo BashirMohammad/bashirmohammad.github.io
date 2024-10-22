@@ -15,7 +15,8 @@ author_profile: true
 *October 2024*
 
 ## **Selected Work in Progress**
-### 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** (with Shaheryar(Duke))
+### 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
+(with Shaheryar(Duke))
 ### 2. **Misallocation and Distribution of Productivity**
 
 
