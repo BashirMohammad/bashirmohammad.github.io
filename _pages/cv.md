@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](/files/URA_ProfitShifting_October2024.pdf/).
+Please find my CV [here](/files/Bashir_CV.pdf/).
