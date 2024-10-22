@@ -11,4 +11,4 @@ I am first year PhD Economics Student at UC Berkeley. I am broadly interested in
 
 I worked as predoc in economics at Columbia University for professors [Michael Best](https://blogs.cuit.columbia.edu/mcb2270/) and [Jack J. Willis](https://sites.google.com/view/jwillis/). I completed my masters in economics from University of Manchester, where I was advised by [Mazhar Waseem](www.mazharwaseem.com)
 
-Please find my CV [here](/files/Bashir_CV/)
+Please find my CV [here](/files/Bashir_CV/).
