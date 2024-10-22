@@ -14,6 +14,7 @@ with Kyle McNabb, [Usama Jamal](https://sites.google.com/view/usamajamal) (Manch
 
 ### 2. **Size Based Polices and Firm Growth**  
 with Zehra Farooq (Federal Board of Revenue, Pakistan), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester) 
+
 *October 2024*
 
 ## **Selected Work in Progress**
