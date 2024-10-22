@@ -155,7 +155,6 @@ include:
   - _pages
   - files
 exclude:
-  - _pages/cv.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -222,6 +221,9 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: false
+    permalink: /:collection/:path/
+  research:
+    output: true
     permalink: /:collection/:path/
 
 
