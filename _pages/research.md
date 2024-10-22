@@ -16,6 +16,6 @@ author_profile: true
 
 ## **Selected Work in Progress**
 ### 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** (with Shaheryar(Duke))
-### 2. ** Misallocation and Distribution of Productivity
+### 2. ** Misallocation and Distribution of Productivity**
 
 
