@@ -152,7 +152,7 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/about.md
   - files
 exclude:
   - "*.sublime-project"
