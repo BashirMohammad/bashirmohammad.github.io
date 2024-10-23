@@ -225,8 +225,8 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: false 
+cv:
+    output: true
     permalink: /:collection/:path/
 
 
