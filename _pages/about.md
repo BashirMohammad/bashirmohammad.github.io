@@ -12,5 +12,7 @@ I am first year PhD Economics Student at UC Berkeley. I am broadly interested in
 I worked as predoc in economics at Columbia University for professors [Michael Best](https://blogs.cuit.columbia.edu/mcb2270/) and [Jack J. Willis](https://sites.google.com/view/jwillis/). I completed my masters in economics from University of Manchester, where I was advised by [Mazhar Waseem](https://mazharwaseem.com).
 
 I completed my undergraduate studies in Economics and Mathematics at the Syed Babar Ali School of Science and Engineering, Lahore University of Management Sciences (LUMS), Lahore. I am grateful to LUMS for funding my education through the [National Outreach Program](nop.lums.edu.pk) scholarship.
+
 In my free time, I immerse myself in the world of Punjabi music, from the vibrant beats of modern songs to the timeless essence of classical khayaal gayaaki. My interests also extend to the rich tradition of Punjabi poetry, along with a deep appreciation for the history and culture of Punjab.
-Please find my CV [here](/files/Bashir_CV.pdf).
+
+Please find my CV [here](/files/Bashir_CV.pdf). Also check out [this](https://bashirmohammad.github.io/RAGuide/intro.html) research guide we wrote for co-authors and new research assistants. 
