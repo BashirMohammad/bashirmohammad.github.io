@@ -13,4 +13,5 @@ I worked as predoc in economics at Columbia University for professors [Michael B
 
 I completed my undergaduate in Economics and Mathematics from Syed Babar Ali School of Science and Engineering from Lahore Univeristy of Management Sciences, Lahore. I am grateful to LUMS for funding my undergraudate studies from [National Outreach Program](nop.lums.edu.pk) scholarship. 
 
+In my free time, I immerse myself in the world of Punjabi music, from the vibrant beats of modern songs to the timeless essence of classical khayaal gayaaki. My interests also extend to the rich tradition of Punjabi poetry, along with a deep appreciation for the history and culture of Punjab.
 Please find my CV [here](/files/Bashir_CV.pdf).
