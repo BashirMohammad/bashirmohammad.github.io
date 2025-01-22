@@ -9,8 +9,6 @@ author_profile: true
 
 ### 1. [Intended and Unintended Consequences of Anti-Avoidance Rules: Evidence from Uganda](/files/URA_ProfitShifting_October2024.pdf)  
 with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=en), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester)  *October 2024*
-
-WIDER Working Paper Series wp-2024-70 [Link](https://www.wider.unu.edu/publication/intended-and-unintended-consequences-anti-avoidance-rules)
 <details>
   <summary style="cursor: pointer; font-weight: bold; color: #4CAF50;">
      Abstract
@@ -19,6 +17,24 @@ WIDER Working Paper Series wp-2024-70 [Link](https://www.wider.unu.edu/publicati
     <p> Aggressive profit shifting by MNEs is a growing concern for domestic resource mobilization in developing economies. This paper evaluates the revenue and welfare consequences of a flagship anti-avoidance rule implemented in more than 45 countries to prevent profit shifting by MNEs through the debt channel. Our focus is Uganda, a representative developing country which implemented the rule in 2018. Exploiting admin data comprising the universe of corporate tax returns, we find that the rule does not significantly increase profits reported by MNEs in Uganda or tax remitted by them. However, it leads to unintended consequences such as a contraction in real economic activity, reducing the turnover, employment, and trade of treated MNEs. This highlights the limited targeting efficiency of the rule, questioning its overall welfare effects.</p>
   </div>
 </details>
+
+<div style="margin-top: 20px; text-align: left;">
+  <a href="https://www.wider.unu.edu/publication/intended-and-unintended-consequences-anti-avoidance-rules" style="text-decoration: none;">
+    <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
+      WIDER Working Paper Series wp-2024-70
+    </button>
+  </a>
+</div>
+
+<div style="margin-top: 20px; text-align: left;">
+  <a href="https://notebooklm.google.com/notebook/49d296e5-e05a-430b-9bbc-6480ae66da29/audio" style="text-decoration: none;">
+    <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
+      NotebookLM podcast summary of the paper
+    </button>
+  </a>
+    </button>
+  </a>
+</div>
 
 ### 2. **[Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)**  
 with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakistan), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester) *October 2024*
@@ -33,6 +49,7 @@ higher taxes across various measures, highlighting their strong willingness to p
 they can lock firms into significantly slower growth trajectories.</p>
   </div>
 </details>
+
 
 
 ## **Selected Work in Progress**
