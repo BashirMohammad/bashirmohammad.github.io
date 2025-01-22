@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# **Working Papers**
+# *Working Papers*
 
 ## 1. [Intended and Unintended Consequences of Anti-Avoidance Rules: Evidence from Uganda](/files/URA_ProfitShifting_October2024.pdf)  
 with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=en), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester)  *October 2024*
@@ -35,6 +35,9 @@ with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=e
   </a>
 </div>
 
+<div style="margin-top: 40px;"></div>
+
+
 ## 2. **[Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)**  
 with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakistan), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester) *October 2024*
 <details>
@@ -59,7 +62,7 @@ they can lock firms into significantly slower growth trajectories.</p>
 <div style="margin-top: 40px;"></div>
 
 
-# **Selected Work in Progress**
+# *Selected Work in Progress*
 ## 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
 with Shaheryar(Duke)
 ## 2. **Misallocation and Distribution of Productivity**
