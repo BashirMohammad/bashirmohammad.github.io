@@ -23,6 +23,7 @@ with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=e
     <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
       WIDER Working Paper Series wp-2024-70
     </button>
+  </a>
 </div>
 
 <div style="margin-top: 20px; text-align: left;">
@@ -31,26 +32,21 @@ with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=e
       NotebookLM podcast summary of the paper
     </button>
   </a>
-    </button>
-  </a>
 </div>
 
 <div style="margin-top: 40px;"></div>
 
-
-## 2. **[Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)**  
+## 2. [Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)  
 with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakistan), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester) *October 2024*
 <details>
   <summary style="cursor: pointer; font-weight: bold; color: #4CAF50;">
      Abstract
   </summary>
   <div style="margin-top: 10px;">
-    <p> Size-based regulations and taxation are ubiquitous. In this paper, we examine the impact of size-based taxation on firm growth by exploiting a large and permanent tax reform from Pakistan, where the VAT threshold was raised from PKR 5 million to PKR 10 million. Using a difference-in-differences framework and rich administrative data, we estimate the causal effects of this reform on firms
-whose growth was previously constrained by the size threshold. Our findings reveal substantial growth effects: treated firms saw their revenue increase by 32 log-points, costs by 19 log-points, and gross profits by 13 log-points. These effects are driven by real economic activity, as third-party reported outcomes, such as wages and imported inputs, also grew by similar margins. Treated firms paid
-higher taxes across various measures, highlighting their strong willingness to pay to get rid of the size-based policy. The results emphasize the importance of carefully designing size-based policies, as 
-they can lock firms into significantly slower growth trajectories.</p>
+    <p> Size-based regulations and taxation are ubiquitous. In this paper, we examine the impact of size-based taxation on firm growth by exploiting a large and permanent tax reform from Pakistan, where the VAT threshold was raised from PKR 5 million to PKR 10 million. Using a difference-in-differences framework and rich administrative data, we estimate the causal effects of this reform on firms whose growth was previously constrained by the size threshold. Our findings reveal substantial growth effects: treated firms saw their revenue increase by 32 log-points, costs by 19 log-points, and gross profits by 13 log-points. These effects are driven by real economic activity, as third-party reported outcomes, such as wages and imported inputs, also grew by similar margins. Treated firms paid higher taxes across various measures, highlighting their strong willingness to pay to get rid of the size-based policy. The results emphasize the importance of carefully designing size-based policies, as they can lock firms into significantly slower growth trajectories.</p>
   </div>
 </details>
+
 <div style="margin-top: 20px; text-align: left;">
   <a href="https://notebooklm.google.com/notebook/b9f77433-347d-48b3-a732-ee27c57c8799/audio" style="text-decoration: none;">
     <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
@@ -61,10 +57,9 @@ they can lock firms into significantly slower growth trajectories.</p>
 
 <div style="margin-top: 40px;"></div>
 
-
 # *Selected Work in Progress*
+
 ## 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
-with Shaheryar(Duke)
+with Shaheryar (Duke)
+
 ## 2. **Misallocation and Distribution of Productivity**
-
-
