@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Working Papers**
+# **Working Papers**
 
-### 1. [Intended and Unintended Consequences of Anti-Avoidance Rules: Evidence from Uganda](/files/URA_ProfitShifting_October2024.pdf)  
+## 1. [Intended and Unintended Consequences of Anti-Avoidance Rules: Evidence from Uganda](/files/URA_ProfitShifting_October2024.pdf)  
 with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=en), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester)  *October 2024*
 <details>
   <summary style="cursor: pointer; font-weight: bold; color: #4CAF50;">
@@ -23,7 +23,6 @@ with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=e
     <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
       WIDER Working Paper Series wp-2024-70
     </button>
-  </a>
 </div>
 
 <div style="margin-top: 20px; text-align: left;">
@@ -36,7 +35,7 @@ with [Kyle McNabb](https://scholar.google.co.uk/citations?user=HogPkK0AAAAJ&hl=e
   </a>
 </div>
 
-### 2. **[Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)**  
+## 2. **[Size-Based Policies and Firm Growth: Evidence from Pakistan](/files/PAK_VAT_Threshold_October_2024.pdf)**  
 with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakistan), [Usama Jamal](https://sites.google.com/view/usamajamal) (Manchester), [Mazhar Waseem](http://www.mazharwaseem.com) (Manchester) *October 2024*
 <details>
   <summary style="cursor: pointer; font-weight: bold; color: #4CAF50;">
@@ -49,12 +48,20 @@ higher taxes across various measures, highlighting their strong willingness to p
 they can lock firms into significantly slower growth trajectories.</p>
   </div>
 </details>
+<div style="margin-top: 20px; text-align: left;">
+  <a href="https://notebooklm.google.com/notebook/b9f77433-347d-48b3-a732-ee27c57c8799/audio" style="text-decoration: none;">
+    <button style="background-color: #008CBA; color: white; padding: 12px 24px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">
+      NotebookLM podcast summary of the paper
+    </button>
+  </a>
+</div>
+
+<div style="margin-top: 40px;"></div>
 
 
-
-## **Selected Work in Progress**
-### 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
+# **Selected Work in Progress**
+## 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
 with Shaheryar(Duke)
-### 2. **Misallocation and Distribution of Productivity**
+## 2. **Misallocation and Distribution of Productivity**
 
 
