@@ -59,4 +59,4 @@ with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakista
 
 # *Selected Work in Progress*
 
-## 1. ** Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies**
+## 1. **Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies**
