@@ -59,7 +59,4 @@ with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakista
 
 # *Selected Work in Progress*
 
-## 1. **Bank Wealth and Credit Supply: Evidence from Super Tax Reform** 
-with Shaheryar (Duke)
-
-## 2. **Misallocation and Distribution of Productivity**
+## 1. ** Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies**
