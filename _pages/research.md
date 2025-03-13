@@ -60,3 +60,5 @@ with [Zehra Farooq](https://zehrafarooq.com/) (Federal Board of Revenue, Pakista
 # *Selected Work in Progress*
 
 ## 1. **Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies**
+## 2. **Institutional Inertia, Culture and Administrative Performance: Evidence from Movement of Bureaucrates during Parition of India**
+
