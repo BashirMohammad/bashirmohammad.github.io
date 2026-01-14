@@ -1,0 +1,97 @@
+\documentclass[12pt,letterpaper]{letter} % controls paper style and font size
+\usepackage{graphicx} % for logos
+\usepackage{parskip} % for spacing
+\usepackage{geometry} % for page margins
+\usepackage{fancyhdr} % for fancy headers/footers
+\usepackage{lastpage} 
+\usepackage{hyperref} % for hyperlinks
+
+% Use Berkeley fonts (requires XeLaTeX or LuaLaTeX)
+\usepackage{fontspec}
+\setmainfont{UCBerkeleyOS.otf}[
+  BoldFont = UCBerkeleyOSBold.otf,
+  ItalicFont = UCBerkeleyOSItalic.otf,
+  BoldItalicFont = UCBerkeleyOSBoldItalic.otf
+]
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    pdftitle={IGC PhD Summer Placements Cover Letter},
+    pdfauthor={Muhammad}
+}
+
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{} % clear header
+\lfoot{\footnotesize \textit{Letter from Muhammad regarding IGC Summer Fellowship}}
+\rfoot{\footnotesize Page \thepage\ of \pageref{LastPage}}
+\renewcommand{\footrulewidth}{0pt}
+
+% Sender Information -- Edit these to fill in your details
+\def\Who{Muhammad Bashir} % Your name
+\def\Title{PhD Student, Economics} % Your title
+\def\Where{University of California, Berkeley} % Your department/institution
+\def\Address{530 Evans Hall} % Your address
+\def\CityZip{Berkeley, CA 94720} % Your city, zip code, country, etc.
+\def\Email{Email: muhammad.bashir@berkeley.edu} % Your email address
+\def\TEL{Phone: (332) 265-6134} % Your phone number
+\def\TELM{} % Mobile number (if you want to include it)
+\def\URL{https://bashirmohammad.github.io/} % Your URL
+
+% First page margins are different to accommodate the letterhead
+\topmargin=-1.1in
+\textheight=9.5in
+\oddsidemargin=-10pt
+\textwidth=7in
+\let\raggedleft\raggedright % Date on left
+
+\begin{document}
+
+\begin{letter}{IGC Summer Fellowship Committee\\International Growth Centre\\London School of Economics}
+
+% Header with the Berkeley wordmark and seal
+\begin{center}
+\begin{picture}(1000,1)
+    \put(0,-20){\includegraphics[width=\textwidth]{formalheader.png}}
+    \put(150,33){\textbf{\footnotesize \Who }}
+    \put(150,22){\footnotesize \Title }
+    \put(150,11){\footnotesize \Where }
+    \put(280,33){\footnotesize \Address }
+    \put(280,22){\footnotesize \CityZip }
+    \put(280,11){\footnotesize \TEL }
+    \put(280,0){\footnotesize \TELM }
+    \put(280,-11){\footnotesize \Email }
+    \put(280,-22){\footnotesize \URL }
+    \put(0,-28){\rule{\textwidth}{0.4pt}}
+\end{picture}
+\end{center}
+\vspace{10mm}
+
+\opening{Dear IGC Summer Fellowship Committee,}
+
+I am a first-year PhD student in Economics at UC Berkeley, with broad research interests in Public Finance, Macroeconomics, and State Capacity. In my ongoing work, I investigate profit shifting and anti-tax avoidance regulations using tax data from Uganda. Additionally, I explore the impact of size-based tax policies on firm growth, productivity, and resource misallocation with tax data from Pakistan. I am also examining the role of banks and credit in supporting firm growth in emerging economies where equity markets are relatively thin.
+
+Prior to my PhD, I worked as a predoctoral fellow in Economics at Columbia University with Professors Michael Best and Jack J. Willis. I completed my Master’s in Economics at the University of Manchester, where I was advised by Mazhar Waseem. My undergraduate studies were in Economics and Mathematics at the Syed Babar Ali School of Science and Engineering, Lahore University of Management Sciences (LUMS), where I was supported by the National Outreach Program scholarship.
+
+I am currently conducting four research projects in Pakistan and am actively looking to explore new ideas and collaborations grounded in this context.
+
+One stream of my research studies the effects of size-based tax exemption thresholds on firm behavior. Using income tax return data from Pakistan, my co-authors and I document significant bunching at turnover thresholds and estimate large distortions to productivity and firm growth. We leverage a policy change in 2016 that raised the exemption threshold from 5 million to 10 million rupees to study how firm dynamics change when constraints are relaxed. I am currently building a dynamic model of firm registration and formalization, which will be used to conduct counterfactual policy analysis to guide optimal tax design.
+
+In a second project, I study the effects of a 2015 windfall tax on banks and large firms in Pakistan. Using corporate income tax returns and scraped bank balance sheet data, I examine how the shock affected bank lending behavior and the downstream effects on firms, with particular attention to maturity structures and credit constraints. I am also working with the State Bank of Pakistan to gain access to the full universe of corporate lending, which will allow us to analyze heterogeneous impacts across firm types. Early results show that firms with higher maturity ratios were more adversely affected, and their long-term growth trajectories changed in response to the shock.
+
+Relatedly, I examine tax avoidance behavior using the unexpected timing of the same 2015 reform. Specifically, I study whether banks responded to the one-time tax by increasing reported non-performing loans to understate taxable income, taking advantage of the ability to recover these loans later. The clean timing of the reform provides an opportunity to identify behavioral responses with minimal confounds.
+
+Lastly, I am developing a long-term project that digitizes archival records of civil servant placements in British India. By combining historical administrative data with modern identification strategies, I study how the partition of 1947—which led to abrupt, quasi-random reassignment of bureaucrats—affected state capacity and institutional resilience. I am personally digitizing these records using AI tools for text recognition and parsing, and the resulting dataset will allow for new insights into the long-run effects of administrative shocks on development outcomes.
+
+A summer placement with an IGC country office would be invaluable in shaping my research trajectory. It would allow me to engage more closely with government stakeholders, explore extensions of my current work, and develop new, policy-relevant projects grounded in field realities. I am especially interested in the Pakistan office, given the data access and institutional relationships already developed through my current work, but I would also be excited to explore opportunities in other countries.
+
+Thank you very much for your consideration. I would be thrilled to contribute to and learn from the IGC community this summer.
+
+\closing{Warm regards,}
+
+\Who{}
+
+\end{letter}
+\end{document}
