@@ -90,8 +90,13 @@
   }
 
   img {
+    display: block;
+    width: 100%;
     max-width: 175px;
-    border-radius: 50%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+    object-position: 50% 20%;
+    border-radius: 8px;
 
     @include breakpoint($large) {
       padding: 5px;
