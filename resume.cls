@@ -107,7 +107,7 @@
   \itemsep -0.5em \vspace{-0.5em}
 }{
   \end{list}
-  \vspace{0.5em}
+  \vspace{0.2em}
 }
 
 \def\namesize{\huge}
