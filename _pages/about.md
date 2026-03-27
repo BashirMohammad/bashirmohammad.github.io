@@ -13,6 +13,4 @@ I worked as predoc in economics at Columbia University for professors [Michael B
 
 I completed my undergraduate studies in Economics and Mathematics at the Syed Babar Ali School of Science and Engineering, Lahore University of Management Sciences (LUMS), Lahore. I am grateful to LUMS for funding my education through the [National Outreach Program](https://nop.lums.edu.pk/) scholarship.
 
-In my free time, I immerse myself in the world of Punjabi music, from the vibrant beats of modern songs to the timeless essence of classical khayaal gayaaki. My interests also extend to the rich tradition of Punjabi poetry, along with a deep appreciation for the history and culture of Punjab.
-
-Please find my CV [here](/files/Bashir_CV.pdf).
+In my free time, I immerse myself in the world of Punjabi music, from the vibrant beats of modern songs to the timeless essence of classical khayaal gayaaki. My interests also extend to the rich tradition of Punjabi poetry, along with a deep appreciation for the history and culture of Punjab. These days, I’ve been listening to [this](https://youtu.be/yTQMX7nK9Ic?list=RDyTQMX7nK9Ic), a 16th-century masterpiece by Shah Hussain. It evokes the struggle of crossing a deep river alone, a powerful image that captures the essence of life and the challenges we face in the modern world.

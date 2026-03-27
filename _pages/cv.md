@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
-Please find my CV [here](/files/Bashir_CV.pdf).
+My resume is available [here](/files/Bashir_CV.pdf).
