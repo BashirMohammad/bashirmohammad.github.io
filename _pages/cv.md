@@ -1,10 +1,9 @@
 ---
-layout: archive
-title: "Resume"
+layout: simple
+title: "CV"
 permalink: /resume/
-author_profile: true
 redirect_from:
   - /cv/
 ---
 
-My resume is available [here](/files/Bashir_CV.pdf).
+My CV is available [here](/files/Bashir_CV.pdf).
