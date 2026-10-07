@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}Muhammad Bashir | PhD Student in Economics, UC Berkeley{% else %}{{ page.title }} | Muhammad Bashir{% endif %}</title>
+  <meta name="description" content="Muhammad Bashir is a PhD student in Economics at UC Berkeley working on public finance, development, and state capacity.">
+  <link rel="icon" href="/images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script>document.documentElement.classList.add("js");</script>
+  <script src="/assets/js/site.js" defer></script>
+</head>
+<body class="{{ page.body_class }}">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="wordmark" href="/">Muhammad Bashir</a>
+    <nav class="site-nav" aria-label="Main">
+      {% for link in site.data.navigation.main %}<a href="{{ link.url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>{% endfor %}
+    </nav>
+  </div>
+</header>
+<main id="main">
+{{ content }}
+</main>
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-id">
+      <p class="footer-name">Muhammad Bashir</p>
+      <p>PhD Student in Economics<br>University of California, Berkeley</p>
+    </div>
+    <div class="footer-contact">
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>Berkeley, California</p>
+    </div>
+    <nav class="footer-links" aria-label="Profiles">
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+      <a href="/resume/">CV</a>
+    </nav>
+  </div>
+  <div class="container footer-note"><p>&copy; {{ site.time | date: '%Y' }} Muhammad Bashir</p></div>
+</footer>
+</body>
+</html>
