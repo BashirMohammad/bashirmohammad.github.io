@@ -45,7 +45,7 @@ redirect_from:
       <h2>Affiliations</h2>
       <ul class="side-list">
         <li>Research Fellow, Centre for Economic Research in Pakistan (CERP)</li>
-        <li>Mehboob ul Haq Research Center, LUMS</li>
+        <li>Research Fellow, Mehboob ul Haq Research Center, LUMS</li>
       </ul>
     </section>
     <section class="contact">
