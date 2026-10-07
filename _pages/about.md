@@ -41,6 +41,13 @@ redirect_from:
         <li>Undergraduate in Economics and Mathematics, Lahore University of Management Sciences (LUMS), funded by the <a href="https://nop.lums.edu.pk/">National Outreach Program</a> scholarship</li>
       </ul>
     </section>
+    <section>
+      <h2>Affiliations</h2>
+      <ul class="side-list">
+        <li>Research Fellow, Centre for Economic Research in Pakistan (CERP)</li>
+        <li>Mehboob ul Haq Research Center, LUMS</li>
+      </ul>
+    </section>
     <section class="contact">
       <h2>Contact</h2>
       <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>Department of Economics<br>UC Berkeley</p>
