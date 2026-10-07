@@ -13,7 +13,7 @@ redirect_from:
     <div class="hero-text">
       <h1>Muhammad Bashir</h1>
       <p class="hero-role">PhD Student in Economics<br>University of California, Berkeley</p>
-      <p class="hero-bio">I am a 3rd year PhD student in Economics at UC Berkeley, with broad research interests in Public Finance, Development, State Capacity and Macroeconomics. In my ongoing work, I investigate profit shifting and anti-tax avoidance regulations, the impact of size-based tax policies on firm growth, productivity, and resource misallocation, optimal design of incentives and monitoring of bureaucrats in Weak State Capacity environments. I am also examining the role of banks and credit in supporting firm growth in emerging economies where equity markets are relatively thin.</p>
+      <p class="hero-bio">I am a 3rd year PhD student in Economics at UC Berkeley, with broad research interests in Public Finance, Labor Economics, Development Economics, Finance, State Capacity and Macroeconomics. In my ongoing work, I investigate profit shifting and anti-tax avoidance regulations, the impact of size-based tax policies on firm growth, productivity, and resource misallocation. I am also examining the role of banks and credit in supporting firm growth in emerging economies where equity markets are relatively thin.</p>
       <p class="hero-links"><a href="mailto:{{ site.author.email }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></p>
     </div>
     <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>

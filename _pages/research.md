@@ -23,7 +23,6 @@ body_class: page-research
     <h2>Selected Work in Progress</h2>
     <ol class="papers">
       <li class="paper"><span class="paper-title">Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies</span></li>
-      <li class="paper"><span class="paper-title">Institutional Inertia, Culture and Administrative Performance: Evidence from Movement of Bureaucrats during Partition of India</span></li>
     </ol>
   </section>
 </div>
